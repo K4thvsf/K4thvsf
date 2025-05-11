@@ -1,6 +1,6 @@
 - 🧬  **Bioinformatics & Data-Science Enthusiast**, currently building my portfolio 
 - 🛠️  I build pipelines and models with: `Python` `R` `SQL` `Bash` `Git` `pandas` `NumPy` `scikit-learn` `PyTorch` `HPC` 
-- 🔎  Creator of **PhageSeeker** — a lightweight Python script that flags bacteriophage infection in bacterial assemblies
+- 🔎  Co-creator of **PhageSeeker** — a lightweight Python script that flags bacteriophage infection in bacterial assemblies
 - 🛠️  I also have experience with AI & Machine Learning, Deep learning, Statistical Analyses 
 - ✍️  Share Data Science and Bioinfo tips and reflections on LinkedIn  
 - 🎵  Outside the terminal you’ll find me reading sci-fi, playing piano, travelling, or curating indie playlists  
